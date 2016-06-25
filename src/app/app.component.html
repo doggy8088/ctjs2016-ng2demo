@@ -11,7 +11,8 @@
           <div id="ctl00_cphBody_PostList1_posts" class="posts">
 
             <!-- Article START-->
-            <app-article></app-article>
+            <app-article
+              [keyword]="keyword"></app-article>
             <!-- Article END-->
 
           </div>
@@ -23,14 +24,9 @@
           <div id="widgetzone_be_WIDGET_ZONE" class="widgetzone">
 
             <!-- Search START-->
-            <div class="widget search" id="widgetfb38ecdd-5813-4d10-8c5f-8d901c7c731e">
-              <div class="widget-content">
-                  <div id="searchbox">
-                    <label for="txt-fb38ecdd-5813-4d10-8c5f-8d901c7c731e" style="display:none">Search</label>
-					<input type="text" placeholder="請輸入搜尋關鍵字" accesskey="s"><input type="button" value="搜尋" id="searchbutton">
-                  </div>
-              </div>
-            </div>
+            <app-search
+              (onsearch)="doSearch($event)"
+              ></app-search>
             <!-- Search END -->
 
             <!-- Calendar START -->
