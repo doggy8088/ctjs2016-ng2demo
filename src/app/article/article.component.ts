@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Http, Request } from '@angular/http';
+import 'rxjs/add/operator/map';
 
 @Component({
   moduleId: module.id,
@@ -8,9 +10,18 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ArticleComponent implements OnInit {
 
-  constructor() {}
+  posts: any[];
+
+  constructor(private http: Http) {}
 
   ngOnInit() {
+    this.http.get('/api/articles.json')
+      .map(res => res.json())
+      .subscribe( (data) => {
+
+        this.posts = data;
+
+      });
   }
 
 }
