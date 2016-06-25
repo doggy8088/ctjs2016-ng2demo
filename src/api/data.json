@@ -1,0 +1,245 @@
+{
+  "recentComments": [
+    {
+      "article": "http://blog.miniasp.com/post/2013/05/07/AngularJS-Intellisense-in-Visual-Studio-2012.aspx",
+      "title": "如何讓 Visual Studio 2012 支援 AngularJS 的 Intellisense (7)",
+      "commentor": "Will 保哥",
+      "content": "amelie: 這文章是講 Visual Studio 2012 的，Visual Studio 2... ",
+      "href": "http://blog.miniasp.com/post/2013/05/07/AngularJS-Intellisense-in-Visual-Studio-2012.aspx#id_cbe390e9-08ef-4aa9-a6d6-e5f43dc842ee"
+    },
+    {
+      "article": "http://blog.miniasp.com/post/2013/05/07/AngularJS-Intellisense-in-Visual-Studio-2012.aspx",
+      "title": "如何讓 Visual Studio 2012 支援 AngularJS 的 Intellisense",
+      "commentor": "amelie",
+      "content": "你好 我在VS 2010 的資料夾裡，沒有這2個檔案ㄟ commonHTML5Types.b... ",
+      "href": "http://blog.miniasp.com/post/2013/05/07/AngularJS-Intellisense-in-Visual-Studio-2012.aspx#id_62c455f4-ff32-49d3-bd44-66ea2cf2a7b8"
+    },
+    {
+      "article": "http://blog.miniasp.com/post/2010/03/02/The-Complete-Guide-for-Purchase-Install-SSL-Certificate-to-IIS7.aspx",
+      "title": "購買與安裝 SSL 憑證完全攻略（以 IIS7 為例）(25)",
+      "commentor": "多奇數位Joseph",
+      "content": "Hi Nat, 憑證申請主要分兩個步驟 (1)產生CSR並上傳至第三方認證機構的網站 (2)從第三... ",
+      "href": "http://blog.miniasp.com/post/2010/03/02/The-Complete-Guide-for-Purchase-Install-SSL-Certificate-to-IIS7.aspx#id_0f91957b-880c-489d-b8c1-6364f6f9a8b8"
+    },
+    {
+      "article": "http://blog.miniasp.com/post/2010/03/02/The-Complete-Guide-for-Purchase-Install-SSL-Certificate-to-IIS7.aspx",
+      "title": "購買與安裝 SSL 憑證完全攻略（以 IIS7 為例）(25)",
+      "commentor": "Nat",
+      "content": "保哥,可以請教一下,我目前於國外申請Comodo的Comodo Wildcard SSL產品申請下來...",
+      "href": "http://blog.miniasp.com/post/2010/03/02/The-Complete-Guide-for-Purchase-Install-SSL-Certificate-to-IIS7.aspx#id_85bd439d-b7fb-4c3d-a266-481d0477ff01"
+    },
+    {
+      "article": "http://blog.miniasp.com/post/2008/12/22/Useful-tool-LDAP-Browser-Editor.aspx",
+      "title": "介紹好用工具：LDAP Browser/Editor (10)",
+      "commentor": "鳥毅",
+      "content": "我推薦 jxplorer http://jxplorer.org/ ，也是 OpenSource 又跨... ",
+      "href": "http://blog.miniasp.com/post/2008/12/22/Useful-tool-LDAP-Browser-Editor.aspx#id_cfc0b7b0-217f-4650-b445-232a2eb9481e"
+    },
+    {
+      "article": "",
+      "title": "",
+      "commentor": "",
+      "content": "",
+      "href": ""
+    }
+  ],
+  "categories": [
+    {
+      "cateName": ".Net",
+      "count": "199"
+    },
+    {
+      "cateName": "Accessibility",
+      "count": "3"
+    },
+    {
+      "cateName": "AngularJS",
+      "count": "7"
+    },
+    {
+      "cateName": "ASP.NET",
+      "count": "217"
+    },
+    {
+      "cateName": "ASP.NET 5",
+      "count": "3"
+    },
+    {
+      "cateName": "ASP.NET Identity",
+      "count": "2"
+    },
+    {
+      "cateName": "ASP.NET MVC",
+      "count": "98"
+    },
+    {
+      "cateName": "ASP.NET Web API",
+      "count": "6"
+    },
+    {
+      "cateName": "C#",
+      "count": "116"
+    },
+    {
+      "cateName": "Cloud Computing",
+      "count": "2"
+    },
+    {
+      "cateName": "CSS",
+      "count": "29"
+    },
+    {
+      "cateName": "Entity Framework",
+      "count": "16"
+    },
+    {
+      "cateName": "Git",
+      "count": "18"
+    },
+    {
+      "cateName": "HTML5",
+      "count": "8"
+    },
+    {
+      "cateName": "IIS",
+      "count": "96"
+    },
+    {
+      "cateName": "JavaScript",
+      "count": "95"
+    },
+    {
+      "cateName": "Jenkins",
+      "count": "4"
+    }
+  ],
+  "tagCloud": [
+    {
+      "tagName": ".net",
+      "tagScale": "small"
+    },
+    {
+      "tagName": "active directory",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "ad",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "ado.net",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "ajax",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "angularjs",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "apache",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "asp",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "ASP.NET",
+      "tagScale": "biggest"
+    },
+    {
+      "tagName": "html5",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "iis",
+      "tagScale": "medium"
+    },
+    {
+      "tagName": "exchange",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "DNS",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "Bower",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "backup",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "awstats",
+      "tagScale": "smallest"
+    },
+    {
+      "tagName": "azure",
+      "tagScale": "small"
+    }
+  ],
+  "blogRoll": [
+    {
+      "name": "ScottGu's Blog - ScottG...",
+      "href": "http://weblogs.asp.net/scottgu/",
+      "rss": "http://weblogs.asp.net/scottgu/rss.aspx",
+      "article": [
+        {
+          "title": "Welcoming the Xamarin t...",
+          "link": "http://weblogs.asp.net/scottgu/welcoming-the-xamarin-team-to-microsoft"
+        },
+        {
+          "title": "AzureCon Keynote Announ...",
+          "link": "http://weblogs.asp.net/scottgu/azurecon-keynote-announcements-india-regions-gpu-support-iot-suite-container-service-and-security-center"
+        },
+        {
+          "title": ">Announcing General Avai...",
+          "link": "http://weblogs.asp.net/scottgu/announcing-general-availability-of-hdinsight-on-linux-new-data-lake-services-and-language"
+        }
+      ]
+    },
+    {
+      "name": "ASP.NET Weblogs",
+      "href": "http://weblogs.asp.net/",
+      "rss": "http://weblogs.asp.net/feed/recent-posts.xml",
+      "article": [
+        {
+          "title": "Parallel LINQ (2) Parti...",
+          "link": "https://weblogs.asp.net/dixin/parallel-linq-2-partitioning"
+        },
+        {
+          "title": "ng-conf in Salt Lake Ci...",
+          "link": "http://weblogs.asp.net/lduveau/ng-conf-in-salt-lake-city"
+        },
+        {
+          "title": "Utilize Server Sent Eve...",
+          "link": "http://weblogs.asp.net/bipinjoshi/utilize-server-sent-events-in-asp-net-mvc"
+        }
+      ]
+    },
+    {
+      "name": "黑暗執行緒",
+      "href": "http://blog.darkthread.net/",
+      "rss": "http://blog.darkthread.net/blogs/darkthreadtw/rss.aspx",
+      "article": [
+        {
+          "title": "2016石碇馬",
+          "link": "http://blog.darkthread.net/post-2016-05-02-2016-shiding-marathron.aspx"
+        },
+        {
+          "title": "安裝NuGet Package時在web.co...",
+          "link": "http://blog.darkthread.net/post-2016-04-30-nuget-package-web-config-install.aspx"
+        },
+        {
+          "title": "從Visual Studio發佈NuGet P...",
+          "link": "http://blog.darkthread.net/post-2016-04-28-nuget-packager.aspx"
+        }
+      ]
+    }
+  ]
+}
